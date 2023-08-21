@@ -6,7 +6,7 @@ publish = "public"
 
 [build.environment]
 NODE_ENV = "production"
-GO_VERSION = "1.21"
+GO_VERSION = "1.20"
 TZ = "UTC"              # Set to preferred timezone
 
 [context.production.environment]
