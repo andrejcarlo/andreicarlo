@@ -52,7 +52,7 @@ This blog aims to answer the following questions:
 
 The experiments of this blog use the [View-of-Delft](https://intelligent-vehicles.org/datasets/view-of-delft/)[4] (VoD) dataset, a novel automotive dataset recorded in Delft, the Netherlands. It contains image frames with respective LiDAR, stereo camera, RADAR data from urban scenarios, with the sensor setup below.
 
-{{< figure src="https://tudelft-iv.github.io/view-of-delft-dataset/docs/figures/Prius_sensor_setup_5.png" alt="dataset_sensors_gif" >}}
+{{< figure src="/projects/foundational/Prius_sensor_setup_5.png" alt="view-of-delft dataset sensors gif" >}}
 
 
 <br>
@@ -60,12 +60,12 @@ The experiments of this blog use the [View-of-Delft](https://intelligent-vehicle
 In the figure below LiDAR, RADAR and camera sensing data is projected onto the camera image plane. These three sensing modalities represent the input data available in a typical autonomous vehicle.
 
 
-{{< figure src="https://intelligent-vehicles.org/wp-content/uploads/2022/02/sensors.gif" alt="data gif example" >}}
+{{< figure src="/projects/foundational/sensors.gif" alt="sensor output view-of-delft example" >}}
 
 The figure below presents the ground truth of the VoD dataset. It contains annotations of 3D bounding boxes for its 14 classes (e.g. pedestrian, cyclist, car, scooter, etc.).
 
 
-{{< figure src="https://intelligent-vehicles.org/wp-content/uploads/2022/02/labels.gif" alt="labels gif example" >}}
+{{< figure src="/projects/foundational/labels.gif" alt="view-of-delft labels example" >}}
 
 
 ## Methodology
@@ -113,7 +113,7 @@ The following image contains projected LiDAR, RADAR and monocular bounding box r
 This approach utilises VoxelNext[9], a fully-sparse 3D object detector that predicts objects directly upon sparse voxel features. This prediction pipeline feeds a YOLO-NAS bounding box detection as a prompt to Segment Anything Model (SAM), which creates an accurate segmentation mask. The mask is used as a filter on LiDAR data to select relevant points and further detect the 3D bounding box with VoxelNext. 
 
 
-{{< figure src="https://raw.githubusercontent.com/dvlab-research/3D-Box-Segment-Anything/main/images/sam-voxelnext.png" alt="sam voxelnet how it works" >}}
+{{< figure src="/projects/foundational/sam-voxelnet.png" alt="sam voxelnet how it works" >}}
 
 ## Experiments
 
