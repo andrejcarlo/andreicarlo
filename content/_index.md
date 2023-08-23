@@ -17,6 +17,6 @@ Whenever I have the opportunity, I enjoy creating innovative new media art insta
 
 <br>
 
-{{< button href="/about/" target="_self" >}}
+{{< button href="/projects/" target="_self" >}}
 Learn more
 {{< /button >}}

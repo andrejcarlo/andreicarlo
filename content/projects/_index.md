@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 description: "Projects of Andrei-Carlo Papuc"
-
 cascade:
   showEdit: false
   showSummary: true
@@ -11,12 +10,6 @@ cascade:
 a collection of my most recent works
 {{< /lead >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum leo risus, vehicula id imperdiet ultricies, fringilla eu lectus. Nunc laoreet at orci et consequat. Proin nec rutrum nunc. Vivamus in mauris vitae turpis sollicitudin ultrices. Integer eget dapibus turpis. Fusce dapibus feugiat lacus vitae maximus. Praesent ultrices magna magna, dignissim interdum dolor rutrum a.
-
-
-
-<!-- This section contains some demo pages that show how Congo renders different types of content. You can also see an example [taxonomy listing]({{< ref "tags" >}}) page.
-
-_**Sidenote:** This page is just a standard Congo article listing and Hugo has been configured to generate a `samples` content type and display article summaries._ -->
+Curated below is a selection of projects that encapsulate my primary research interests and standout achievements. Most of these projects were developed in collaboration with other students and colleagues in multidisciplinary teams. For access to project code and additional references, kindly reach out to me by [email](mailto:andrejcarlop@gmail.com). Your interest and inquiries are greatly appreciated.
 
 ---
