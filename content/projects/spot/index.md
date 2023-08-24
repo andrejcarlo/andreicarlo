@@ -21,5 +21,5 @@ The decision handler, implemented as a finite state machine (FSM), played a pivo
 While each component performed well individually in simulations and real-world tests, the integration of sub-modules resulted in performance that fell short of our expectations. This decline in perception, planning, and navigation effectiveness seemed to be linked to computational limitations during simultaneous operation. Given additional time and focused effort, it's likely these challenges could have been addressed.
 
 {{< button href="/projects/spot/spot.pdf" target="_self" >}}
-Read More
+Download PDF
 {{< /button >}}
