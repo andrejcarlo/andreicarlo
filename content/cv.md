@@ -41,7 +41,7 @@ I am particularly interested in the fields of computer vision, deep learning, pl
 ### Software
 
 - C++, C, CMake, Make, Rust
-- PyTorch, Tensorflow, NumPy, Matplotlib, Pandas, Scikit‐learn, Rust
+- Python, PyTorch, Tensorflow, NumPy, Matplotlib, Pandas, Scikit‐learn
 - React, Typescript, NodeJs, Electron, ThreeJS
 - Git, LaTeX
 - See examples of [projects](/software/)
