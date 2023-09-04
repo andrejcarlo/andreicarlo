@@ -24,3 +24,7 @@ The ground station department worked to facilitate the autonomous operations of 
 These design choices resulted in a system cost of 18.4M [€], with a power draw of 16.9 [kW]. The system was then verified against the system’s requirements and analyzed through the scope of a technical analysis and financial compliance review. With this insight, it became possible to determine full characteristics of the system as well as possible areas for further work.
 
 {{< figure src="/projects/dse/DroneInGS-min.png" alt="Drone landing in a ground station" >}}
+
+{{< button href="/projects/dse/dse_final_compressed.pdf" target="_self" >}}
+Download PDF
+{{< /button >}}
