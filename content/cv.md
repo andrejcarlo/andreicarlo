@@ -27,7 +27,7 @@ I am particularly interested in the fields of computer vision, deep learning, ma
 
 ## Experience
 
-- (2021 -- 2022) **R&D Software Engineer** -- HUBS, the Netherlands
+- (2021 -- 2023) **R&D Software Engineer** -- HUBS, the Netherlands
   + Led the optimization and maintenance of meshing and conversion algorithms, ensuring consistent and accurate results across diverse 3D CAD formats and facilitating seamless data conversion
   + Developed robust C++ codebase to execute intricate mesh analysis on 3D CAD models, effectively evaluating complex geometries and contributing to precise engineering insights
   + Performed feature engineering, model training and hyperparameter search for machine learning pricing algorithms using insights from mesh analysis tools
