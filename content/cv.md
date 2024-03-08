@@ -13,7 +13,7 @@ Download CV
 
 ## Summary
 
-I am particularly interested in the fields of computer vision, deep learning, machine perception, planning and decision-making under uncertainty, optimal control, and (reinforcement) learning for control, all within the [realm of robotics](/projects).
+I am particularly interested in the fields of computer vision, deep learning, machine perception, planning and decision-making under uncertainty, optimal control, and deep reinforcement learning for control, all within the [realm of robotics](/projects).
 
 ---
 
