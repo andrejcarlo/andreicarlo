@@ -3,7 +3,7 @@ languageName = "English"
 weight = 1
 
 title = "Andrei-Carlo Papuc"
-copyright = "© 2023 Andrei-Carlo Papuc"
+copyright = "© 2024 Andrei-Carlo Papuc"
 
 [params]
 isoCode = "en"
@@ -17,7 +17,7 @@ description = "Personal website of Andrei-Carlo Papuc. MSc Robotics at TU Delft"
 
 [author]
 name = "Andrei-Carlo Papuc"
-image = "img/author-modified.jpg"
+image = "img/author-bw.jpg"
 # headline = "I'm only human"
 bio = "Personal website of Andrei-Carlo Papuc. MSc Robotics at TU Delft"
 links = [
