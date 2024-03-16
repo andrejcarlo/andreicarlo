@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 # mainSections = ["section1", "section2"]
 description = "Personal website of Andrei-Carlo Papuc. MSc Robotics at TU Delft"
 
-[author]
+[params.author]
 name = "Andrei-Carlo Papuc"
 image = "img/author-bw.jpg"
 # headline = "I'm only human"
