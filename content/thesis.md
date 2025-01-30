@@ -1,4 +1,5 @@
 ---
+description: Interaction-aware Autonomous Drone Racing
 layout: "simple"
 # Optional: Add a menu entry directly via front matter
 ---

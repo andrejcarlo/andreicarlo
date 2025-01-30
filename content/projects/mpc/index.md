@@ -1,9 +1,8 @@
 ---
-description: First Project
+description: A model predictive control approach for trajectory tracking of quadrotors
 layout: "simple"
 summary: "Our paper presents a model predictive control (MPC) approach for trajectory tracking of quadrotors, where a mathematical model of the quadrotor is developed with consideration of aerodynamic moment and drag to improve the simulation’s real-world accuracy."
-title: "A model predictive control approach for trajectory tracking of 
-quadrotors" 
+title: "A model predictive control approach for trajectory tracking of quadrotors" 
 ---
 
 {{< figure src="/projects/mpc/results.jpg" alt="mpc quadrotor results" >}}
