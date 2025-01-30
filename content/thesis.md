@@ -23,7 +23,7 @@ layout: "simple"
     Thesis
     {{< /button >}}
     {{< button href="https://github.com/andrejcarlo/agile_multi_agent" target="_self" >}}
-     {{< icon "github" >}} Code
+     {{< icon "github" >}} <span style="margin-left: 4px;">Code</span>
     {{< /button >}}
   </p>
 </div>
