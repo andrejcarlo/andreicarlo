@@ -1,6 +1,7 @@
 ---
 description: Exploring the possibility of using foundational computer vision models for pedestrian detection
 # layout: "simple"
+summary: "Foundational models learn and generalize from large-scale image datasets created by scraping the entire web, meaning driving-related images (e.g. dashcam footage) could be part of the model's knowledge. With current advancements in foundational computer vision models, they could improve sensor fusion pipeline by increasing initial pedestrian detection accuracies and better complement the hand-crafted sensor fusion step."
 title: "Enhancing autonomous driving: leveraging frame‐based foundation models for improved pedestrian detection and sensor fusion"
 showTableOfContents: true
 ---

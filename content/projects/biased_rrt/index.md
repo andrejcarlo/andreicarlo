@@ -1,6 +1,7 @@
 ---
 description: First Project
 layout: "simple"
+summary: "This paper presents the development of a version of RRT* optimized for indoor environments, called biased RRT*."
 title: "Obstacle driven RRT implementation for quad‐rotor motion planning"
 ---
 

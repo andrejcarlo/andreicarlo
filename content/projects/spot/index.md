@@ -1,6 +1,7 @@
 ---
 description: First Project
 layout: "simple"
+summary: "One of the specific investigations of TNO concerns the applicability of Boston Dynamics’ Spot robot for domestic applications, i.e., applying SPOT as a robotic assistance dog."
 title: "Autonomous legged robot solution for efficient lost item retrieval" 
 ---
 

@@ -1,6 +1,7 @@
 ---
 description: The AEGNN model is a novel approach to leverage the unique properties of event-based cameras.
 # layout: "simple"
+summary: "In this paper, we reproduce the AEGNN model and evaluate its performance in recognizing objects in the Neuromorphic-Caltech101 dataset. We investigate the impact of changing convolutional operators and hyperparameters on the model's accuracy."
 title: "Reproduction of deep learning paper on event camera processing" 
 showTableOfContents: true
 ---

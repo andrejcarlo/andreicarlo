@@ -1,6 +1,7 @@
 ---
 description: First Project
 # layout: "simple"
+summary: "The goal of this project is to outline the sub-system design of the local sensing system, to satisfy the mission need statement: measure the atmospheric conditions with full three-dimensional coverage of a wind farm to optimize its operational performance and control."
 title: "Design of a drone swarm to measure the wind field and temperature stratification in a wind farm"
 ---
 

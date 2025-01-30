@@ -1,6 +1,7 @@
 ---
 description: First Project
 layout: "simple"
+summary: "Smart Rotor Models (SRM) allow for modification of the wind turbine's aerodynamic properties using an actuated flap to alleviate the effects of sudden peak loads caused by wind gusts. Wind tunnel experiments conducted with the help of Robotic Particle Image Velocimetry (RPIV) measure the flow surrounding such models."
 title: "Robotic particle image velocimetry for position reconstruction of a smart rotor model"
 ---
 

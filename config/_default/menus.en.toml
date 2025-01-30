@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "about"
-url = "/about/"
+name = "thesis (wip)"
+url = "/thesis/"
 weight = 10
 
 [[main]]

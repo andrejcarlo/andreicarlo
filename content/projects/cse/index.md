@@ -1,6 +1,7 @@
 ---
 description: First Project
 layout: "simple"
+summary: "Lattice structures have become ever more popular in modern structural design, as they generally provide high strength-to-weight ratios. However, certain designs also prove to be effective in suppressing waves of specific frequencies, allowing lattice materials to be used as for instance noise isolators."
 title: "Developing analytical models for dynamic analysis of lattice structures"
 ---
 

@@ -9,7 +9,7 @@ MSc in Robotics at TU Delft
 
 Hello! My name is Andrei-Carlo Papuc, and I am a Master’s student in the Department of Cognitive Robotics (CoR) at Delft University of Technology.
 
-I am currently working on my thesis in game-theoretical motion planning for autonomous drone racing, supervised by [Javier Alonso-Mora](https://autonomousrobots.nl/), [Lasse Peters](https://lasse-peters.net/), and [Sihao Sun](https://sihaosun.github.io/).
+I am currently working on my [thesis](/thesis/) in game-theoretical motion planning for autonomous drone racing, supervised by [Javier Alonso-Mora](https://autonomousrobots.nl/), [Lasse Peters](https://lasse-peters.net/), and [Sihao Sun](https://sihaosun.github.io/).
 
 Previously, I earned my Bachelor's degree in Aerospace Engineering from Delft University of Technology, with a minor in Computational Science and Engineering.
 
