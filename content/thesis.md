@@ -32,7 +32,7 @@ layout: "simple"
 
 <!-- Embedded Video -->
 <div style="text-align: center; margin: 2rem 0;">
-  {{< youtube rlR1VAh7VrE >}}
+  {{< youtube 7u5bAj3fGQQ >}}
 </div>
 
 <!-- Description -->
@@ -41,5 +41,9 @@ layout: "simple"
   <p>
     This thesis explores interaction-aware decision-making strategies in autonomous drone racing. 
     We investigate how multi-agent game-theoretic approaches can enhance competitive performance in high-speed racing environments.
+  </p>
+
+  <p>
+    Autonomous drone racing presents a unique challenge that requires both high-speed motion planning and strategic decision-making in a multi-agent setting. Prior work has primarily relied on model predictive control (MPC) methods that treat opponents as dynamic obstacles, limiting their ability to model strategic interactions. In this work, we formulate drone racing as a dynamic game and introduce game-theoretic planning methods that compute open-loop Nash equilibria, incorporate blocking strategies, and accelerate decision-making using learning-based techniques. These methods explicitly model opponent behavior, allowing drones to anticipate and react strategically in high-speed racing scenarios. To assess the effectiveness of our approach, we conduct a large-scale head-to-head tournament against MPC-based planners, demonstrating that interaction-aware planning enables more effective overtaking and defensive strategies, leading to a higher wining rate. However, computational delays in high-speed decision-making can limit performance, highlighting the need for efficient techniques that balance real-time feasibility with strategic adaptability. Our results show that learning-based acceleration significantly improves decision-making speed while preserving competitive advantages. Finally, high-fidelity simulations and real-world drone racing experiments validate the feasibility of these methods, confirming their ability to generate reliable and competitive strategies under practical racing conditions.
   </p>
 </div>
